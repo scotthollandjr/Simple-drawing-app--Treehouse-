@@ -9,3 +9,7 @@ A simple drawing application to practice JavaScript, project files taken from th
 ## Technologies Used
 
 _This website will use HTML, CSS and JavaScript_
+
+## Link to GitHub Repository
+
+https://github.com/theAppanaut/Simple-drawing-app--Treehouse.git
